@@ -9,6 +9,6 @@ elif crime == theft:
 
 criminals = [['fatai','burglar'], ['clement','kidnapper'], ['goatie', 'bandit']]
 
-criminals.append[0] = ['thunder', 'cultist']
+criminals.append(['thunder', 'cultist'])
+criminals.insert(0,['Don bleu','Violent')
 print("the list of criminals:", criminals)
-
