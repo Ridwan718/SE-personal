@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir passwords; chmod 755 passwords; echo Allahsgrace > passwords

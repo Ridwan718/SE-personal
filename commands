@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#this command will create a intel directory 7 set its permission to 755
+
+mkdir intel
+
+chmod -R 755 intel

@@ -1,0 +1,2 @@
+#!/bin/bash
+touch coordinates; chmod 777 coordinates ; echo location_of_victim > coordinates
